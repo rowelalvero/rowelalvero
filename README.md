@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">An aspiring web developer passionate about creating modern and responsive web applications. I have experience with React, Vue.js, Laravel, and Next.js to build dynamic and efficient user experiences. Currently, I'm focused on growing my full-stack development skills through hands-on projects and continuous learning.</p>
+<p align="left">An aspiring software developer/engineer passionate about creating modern and responsive android and ios applications. I have experience with React, Vue.js, Laravel, and Next.js to build dynamic and efficient user experiences. Currently, I'm focused on growing my full-stack development skills through hands-on projects and continuous learning.</p>
 
 ###
 
