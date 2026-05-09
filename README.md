@@ -105,9 +105,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="61" alt="express logo"  />
 </div>
 
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
 
